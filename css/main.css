@@ -1,0 +1,31 @@
+html {
+  font-family: 'Mallanna', sans-serif;
+  color: #204b49;
+}
+
+a {
+  text-decoration: none;
+  color: #E3DDDD;
+}
+
+.btn {
+  background-color: #E3DDDD;
+  color: #FE4A4A;
+  border-color: #FE4A4A;
+  border-width: 1.5px;
+}
+
+.btn:hover {
+  background-color: #FE4A4A;
+  color: #E3DDDD;
+  border-color: #E3DDDD;
+}
+
+.header-color {
+  background-color: #a2bdc7;
+}
+
+footer {
+  background-color: #204B49;
+  color: #E3DDDD;
+}
