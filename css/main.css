@@ -3,9 +3,12 @@ html {
   color: #204b49;
 }
 
+header {
+  background-color: #E3DDDD;
+}
+
 a {
-  text-decoration: none;
-  color: #E3DDDD;
+  color: #204B49;
 }
 
 .btn {
@@ -28,4 +31,17 @@ a {
 footer {
   background-color: #204B49;
   color: #E3DDDD;
+}
+
+footer-a {
+  text-decoration: none;
+  color: #E3DDDD;
+}
+
+img {
+  max-width: 100%;
+}
+
+.banner {
+  background-color: rgba(0, 0, 0, .05);
 }
