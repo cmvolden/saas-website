@@ -33,7 +33,7 @@ footer {
   color: #E3DDDD;
 }
 
-footer-a {
+.footer-a {
   text-decoration: none;
   color: #E3DDDD;
 }
@@ -44,4 +44,9 @@ img {
 
 .banner {
   background-color: rgba(0, 0, 0, .05);
+}
+
+.cards li {
+  background-color: #fff;
+  border: 1.5px solid #FE4A4A;
 }
