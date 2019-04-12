@@ -54,3 +54,7 @@ img {
 strong {
   color: #FE4A4A;
 }
+
+.price-card {
+  border: solid 5px #a2bdc7;
+}
