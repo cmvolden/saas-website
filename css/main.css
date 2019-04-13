@@ -43,7 +43,7 @@ img {
 }
 
 .banner {
-  background-color: rgba(0, 0, 0, .1);
+  background-color: rgba(255,255,255,0.7);
 }
 
 .cards li {
@@ -63,5 +63,26 @@ strong {
   background-image: url("../images/woman-and-baby.jpg");
   background-size: cover;
   min-height: 30em;
+  background-position: center center;
+}
+
+.tour-banner {
+  background-image: url("../images/tour.jpg");
+  background-size: cover;
+  min-height: 10em;
+  background-position: center center;
+}
+
+.pricing-banner {
+  background-image: url("../images/pricing.jpg");
+  background-size: cover;
+  min-height: 10em;
+  background-position: center center;
+}
+
+.sign-up-banner {
+  background-image: url("../images/sign-up.jpg");
+  background-size: cover;
+  min-height: 10em;
   background-position: center center;
 }
