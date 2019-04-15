@@ -11,6 +11,18 @@ a {
   color: #204b49;
 }
 
+main a:focus {
+  outline: 3px solid #204b49;
+}
+
+section a:focus {
+  outline: 3px solid #204b49;
+}
+
+article a:focus {
+  outline: 3px solid #204b49;
+}
+
 nav a:hover {
   background-color: #204b49;
   color: #e3dddd;
