@@ -1,5 +1,5 @@
 html {
-  font-family: "Mallanna", sans-serif;
+  font-family: Mallanna, sans-serif;
   color: #204b49;
 }
 
@@ -11,7 +11,7 @@ a {
   color: #204b49;
 }
 
-nav a:hover{
+nav a:hover {
   background-color: #204b49;
   color: #e3dddd;
   border: 1px solid #fe4a4a;
@@ -20,7 +20,7 @@ nav a:hover{
 
 .btn {
   background-color: #e3dddd;
-  color: #fe4a4a;
+  color: #204b49;
   border-color: #fe4a4a;
   border-width: 1.5px;
 }
