@@ -1,27 +1,34 @@
 html {
-  font-family: 'Mallanna', sans-serif;
+  font-family: "Mallanna", sans-serif;
   color: #204b49;
 }
 
 header {
-  background-color: #E3DDDD;
+  background-color: #e3dddd;
 }
 
 a {
-  color: #204B49;
+  color: #204b49;
+}
+
+nav a:hover{
+  background-color: #204b49;
+  color: #e3dddd;
+  border: 1px solid #fe4a4a;
+  border-radius: 4px;
 }
 
 .btn {
-  background-color: #E3DDDD;
-  color: #FE4A4A;
-  border-color: #FE4A4A;
+  background-color: #e3dddd;
+  color: #fe4a4a;
+  border-color: #fe4a4a;
   border-width: 1.5px;
 }
 
 .btn:hover {
-  background-color: #FE4A4A;
-  color: #E3DDDD;
-  border-color: #E3DDDD;
+  background-color: #fe4a4a;
+  color: #e3dddd;
+  border-color: #e3dddd;
 }
 
 .header-color {
@@ -29,13 +36,13 @@ a {
 }
 
 footer {
-  background-color: #204B49;
-  color: #E3DDDD;
+  background-color: #204b49;
+  color: #e3dddd;
 }
 
 .footer-a {
   text-decoration: none;
-  color: #E3DDDD;
+  color: #e3dddd;
 }
 
 img {
@@ -43,16 +50,16 @@ img {
 }
 
 .banner {
-  background-color: rgba(255,255,255,0.7);
+  background-color: rgba(255, 255, 255, .7);
 }
 
 .cards li {
   background-color: #fff;
-  border: 1.5px solid #FE4A4A;
+  border: 1.5px solid #fe4a4a;
 }
 
 strong {
-  color: #FE4A4A;
+  color: #fe4a4a;
 }
 
 .price-card {
