@@ -114,3 +114,12 @@ strong {
 .skip-links a:focus {
   top: 0;
 }
+
+td {
+  text-align: center;
+  color: #008000;
+}
+
+th {
+  text-align: center;
+}
