@@ -30,6 +30,11 @@ nav a:hover {
   border-radius: 4px;
 }
 
+.logo:hover {
+  border: 0;
+  background-color: transparent;
+}
+
 .btn {
   background-color: #e3dddd;
   color: #204b49;
